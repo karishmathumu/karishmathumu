@@ -1,4 +1,5 @@
 - Hello, I’m Karishma Thumu, Mechatronics and Cyber Physical Systems - master's student at Technische Hochschule Deggendorf, Germany
+- Currently working as a student assistant in Fraunhofer IGCV, Augsburg, Bavaria
 - I’m interested in Robotics, Autonomous Navigation, Deep Learning
 - I’m currently learning and working on ROS
 - Plans to study on drone technology for autonomous navigation
